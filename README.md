@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Angular and .Net<br>👯 I’m looking to collaborate on Angular and .NET<be>🌱 I’m currently learning Angular and Asp.Net Core <br>
+🔭 I’m currently working on Angular and .Net<br>👯 I’m looking to collaborate on Angular and .NET<br>🌱 I’m currently learning Angular and Asp.Net Core <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rushikesh-chaudhari-0b97a6236) 
